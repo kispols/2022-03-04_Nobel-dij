@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace _2022_03_04_Nobel_dij
 {
-    public partial class Form1 : Form
+    public partial class OrvosiNobeldijasokGUI : Form
     {
-        public Form1()
+        public OrvosiNobeldijasokGUI()
         {
             InitializeComponent();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -16,7 +16,7 @@ namespace _2022_03_04_Nobel_dij
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new OrvosiNobeldijasokGUI());
         }
     }
 }
