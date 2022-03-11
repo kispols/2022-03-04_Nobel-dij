@@ -21,5 +21,15 @@ namespace _2022_03_04_Nobel_dij
         {
 
         }
+
+        private void btnMentés_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -48,6 +48,7 @@ namespace _2022_03_04_Nobel_dij
             this.btnMentés.TabIndex = 0;
             this.btnMentés.Text = "Adatok mentése";
             this.btnMentés.UseVisualStyleBackColor = true;
+            this.btnMentés.Click += new System.EventHandler(this.btnMentés_Click);
             // 
             // textBox1
             // 
@@ -55,6 +56,7 @@ namespace _2022_03_04_Nobel_dij
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(55, 20);
             this.textBox1.TabIndex = 1;
+            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // textBox2
             // 
